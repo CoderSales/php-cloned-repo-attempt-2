@@ -22,4 +22,8 @@ Where project served from: [Live Server Web Extension [SETUP HELP]](https://www.
 
 - [argument when defining function, parameter is something "passed in", "as an argument", "that's a parameter"](https://youtu.be/BUCiSSyIGGU?t=3913)
 
-- 06_functions.php [anonymous function save to variable](https://youtu.be/BUCiSSyIGGU?t=4065)
+06_functions.php
+
+- [anonymous function save to variable](https://youtu.be/BUCiSSyIGGU?t=4065)
+
+- [arrow functions](https://youtu.be/BUCiSSyIGGU?t=4116)
