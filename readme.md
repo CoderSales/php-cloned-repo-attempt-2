@@ -13,3 +13,9 @@ npm install
 [Get-Process](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.4)
 
 [Stop-Process](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.4)
+
+____
+
+Where project served from: [Live Server Web Extension [SETUP HELP]](https://www.youtube.com/watch?v=54wcX1G2GH8&ab_channel=RitwickDey)
+
+- [timestamp](https://youtu.be/54wcX1G2GH8?t=45)
