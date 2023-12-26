@@ -19,3 +19,5 @@ ____
 Where project served from: [Live Server Web Extension [SETUP HELP]](https://www.youtube.com/watch?v=54wcX1G2GH8&ab_channel=RitwickDey)
 
 - [timestamp](https://youtu.be/54wcX1G2GH8?t=45)
+
+- [argument when defining function, parameter is something "passed in", "as an argument", "that's a parameter"](https://youtu.be/BUCiSSyIGGU?t=3913)
