@@ -7,3 +7,9 @@ If you are using VS Code and prettier and want Prettier to work with .php files,
 ```
 npm install
 ```
+
+## custom
+
+[Get-Process](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.4)
+
+[Stop-Process](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.4)
